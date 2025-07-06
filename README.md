@@ -1,6 +1,6 @@
 <!-- BACKGROUND -->
 <p align="center">
-  <img src="https://your-dark-themed-banner.gif" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/YehudaBriskman/YehudaBriskman/main/assets/banner_slideshow.gif" alt="Banner" width="100%">
 </p>
 
 <!-- PROFILE HEADER -->

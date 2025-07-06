@@ -19,7 +19,7 @@
 - 🛠️ Technologies I'm swimming in:
   `React`, `TypeScript`, `Go`, `Python`, `PostgreSQL`, `MongoDB`, `Docker`, `Three.js`, `Firebase`, `Tailwind`
 - 🕵️ Loves reading about open source, deep research and information security
-- 🎮 Hobbies: Gaming, anime, cooking, code refinement
+- 🎮 Hobbies: Gaming, drawing, cooking, code refinement
 
 ---
 
@@ -32,14 +32,14 @@
 
 ---
 
-### 🧰 Tools I work with:
+### Tools I work with:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,go,py,nodejs,mongodb,postgres,docker,tailwind,threejs,firebase,linux,git,vscode" />
 </p>
 
 ---
 
-### 📊 Cool statistics
+### Cool statistics that I like to check all the time
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YehudaBriskman&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehudaBriskman&layout=compact&theme=radical" height="165"/>
@@ -49,7 +49,7 @@
 
 ### ⚡ Quote that makes me act:
 > "Those who dare to fail miserably can achieve greatly." – JFK  
-> Or as I say – **"Either there will be a legend, or there will be nothing."**
+> Or as I say – **"Set your goals in the stars. That’s how you land on the moon."**
 
 ---
 

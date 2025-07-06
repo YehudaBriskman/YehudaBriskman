@@ -32,12 +32,27 @@
   </a>
 </p>
 
-
 ---
 
 ### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,go,py,docker,postgres,mongodb,firebase,tailwind,threejs,linux,git" />
+</p>
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YehudaBriskman&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehudaBriskman&layout=compact&theme=midnight-purple" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YehudaBriskman&theme=midnight-purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YehudaBriskman&theme=react-dark&hide_border=true" />
 </p>
 
 ---

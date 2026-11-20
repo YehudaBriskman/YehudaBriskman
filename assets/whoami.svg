@@ -21,10 +21,10 @@
   <circle cx="504" cy="18" r="5" fill="#ff5f57"/><circle cx="520" cy="18" r="5" fill="#febc2e"/><circle cx="536" cy="18" r="5" fill="#28c840"/></g>
   <text x="242" y="22" text-anchor="middle" font-size="11" fill="#8b95a7">~/portrait.sh</text>
   <text x="714" y="22" text-anchor="middle" font-size="11" fill="#8b95a7">~/stats.sh</text>
-  <clipPath id="p-who"><rect class="type-clip" x="32" y="52" width="0" height="24" style="animation:type 1.44s steps(32,end) 0s forwards;--w:280px"/></clipPath>
-  <text x="32" y="68" font-size="14" font-weight="700" clip-path="url(#p-who)"><tspan fill="#a78bfa">yehudabriskman@github</tspan><tspan fill="#8b95a7"> ~ </tspan><tspan fill="#5eead4">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
-  <clipPath id="p-stats"><rect class="type-clip" x="500" y="52" width="0" height="24" style="animation:type 1.6199999999999999s steps(36,end) 0s forwards;--w:313px"/></clipPath>
-  <text x="500" y="68" font-size="14" font-weight="700" clip-path="url(#p-stats)"><tspan fill="#a78bfa">yehudabriskman@github</tspan><tspan fill="#8b95a7"> ~ </tspan><tspan fill="#5eead4">$ </tspan><tspan fill="#e6edf3">./stats.sh</tspan></text>
+  <clipPath id="p-who"><rect class="type-clip" x="106" y="52" width="0" height="24" style="animation:type 1.44s steps(32,end) 0s forwards;--w:275px"/></clipPath>
+  <text x="108" y="68" font-size="14" font-weight="700" textLength="268.8" lengthAdjust="spacing" clip-path="url(#p-who)"><tspan fill="#a78bfa">yehudabriskman@github</tspan><tspan fill="#8b95a7"> ~ </tspan><tspan fill="#5eead4">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+  <clipPath id="p-stats"><rect class="type-clip" x="561" y="52" width="0" height="24" style="animation:type 1.6199999999999999s steps(36,end) 0s forwards;--w:309px"/></clipPath>
+  <text x="563" y="68" font-size="14" font-weight="700" textLength="302.4" lengthAdjust="spacing" clip-path="url(#p-stats)"><tspan fill="#a78bfa">yehudabriskman@github</tspan><tspan fill="#8b95a7"> ~ </tspan><tspan fill="#5eead4">$ </tspan><tspan fill="#e6edf3">./stats.sh</tspan></text>
   <text class="line" xml:space="preserve" x="57.26221071575162" y="113" font-size="11.62" textLength="306.7" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 0.900s both">  .......            .......  ..............</text>
     <text class="line" xml:space="preserve" x="57.26221071575162" y="132.3684210526316" font-size="11.62" textLength="334.6" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 0.935s both"> .::----:..        .:-----::..::---::::::::::...</text>
     <text class="line" xml:space="preserve" x="57.26221071575162" y="151.73684210526315" font-size="11.62" textLength="348.6" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 0.970s both"> .-==+++=-:.      :-=+++++=:::==+++=========---::.</text>
@@ -60,7 +60,7 @@
     <g class="rise" style="animation:rise .55s ease-out 1.04s both">
       <rect x="500" y="186" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
       <text x="514" y="206" font-size="11" fill="#8b95a7">$ contributions</text>
-      <text x="514" y="237" font-size="30" font-weight="800" fill="#e6edf3">4,491<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="514" y="237" font-size="30" font-weight="800" fill="#e6edf3">4,494<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
       <text x="514" y="254" font-size="10.5" fill="#5b6475">in the last year</text>
     </g>
     <g class="rise" style="animation:rise .55s ease-out 1.16s both">
@@ -78,7 +78,7 @@
     <g class="rise" style="animation:rise .55s ease-out 1.40s both">
       <rect x="722" y="274" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
       <text x="736" y="294" font-size="11" fill="#8b95a7">$ avg / active day</text>
-      <text x="736" y="325" font-size="30" font-weight="800" fill="#e6edf3">44.0<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="736" y="325" font-size="30" font-weight="800" fill="#e6edf3">44.1<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
       <text x="736" y="342" font-size="10.5" fill="#5b6475">contributions</text>
     </g>
   <g class="rise" style="animation:rise .55s ease-out 1.4s both">
@@ -112,13 +112,13 @@
       <g><rect class="grow" x="782.7" y="455.8" width="29.3" height="24.2" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.06s both"><title>Aug: 607</title></rect>
       <text x="797.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">A</text>
       </g>
-      <g><rect class="grow" x="817.0" y="476.8" width="29.3" height="3.2" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.13s both"><title>Sep: 79</title></rect>
+      <g><rect class="grow" x="817.0" y="476.9" width="29.3" height="3.1" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.13s both"><title>Sep: 79</title></rect>
       <text x="831.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">S</text>
       </g>
       <g><rect class="grow" x="851.3" y="460.3" width="29.3" height="19.7" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.20s both"><title>Oct: 495</title></rect>
       <text x="866.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">O</text>
       </g>
-      <g><rect class="grow" x="885.7" y="396.0" width="29.3" height="84.0" rx="2.5" fill="#5eead4" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.27s both"><title>Nov: 2,106</title></rect>
+      <g><rect class="grow" x="885.7" y="396.0" width="29.3" height="84.0" rx="2.5" fill="#5eead4" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.27s both"><title>Nov: 2,109</title></rect>
       <text x="900.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">N</text>
-      <text class="fade" x="900.3" y="390.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#5eead4" style="animation:fade .4s ease-out 2.4s both">2,106</text></g>
+      <text class="fade" x="900.3" y="390.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#5eead4" style="animation:fade .4s ease-out 2.4s both">2,109</text></g>
 </svg>

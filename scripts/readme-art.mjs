@@ -134,12 +134,13 @@ function window_(w, h, title, body, defs = "") {
 }
 
 /** A prompt line that types itself in: `user@github ~ $ cmd`. */
-function prompt(x, y, cmd, { delay = 0, size = 15, id }) {
+function prompt(cx, y, cmd, { delay = 0, size = 15, id }) {
   const chars = `${USER.toLowerCase()}@github ~ $ ${cmd}`.length;
-  const w = Math.ceil(chars * size * 0.605) + 8;
+  const tw = chars * size * 0.6; // monospace advance, pinned below with textLength
+  const x = Math.round(cx - tw / 2); // centred on cx
   const dur = Math.max(0.5, chars * 0.045);
-  return `<clipPath id="${id}"><rect class="type-clip" x="${x}" y="${y - size - 2}" width="0" height="${size + 10}" style="animation:type ${dur}s steps(${chars},end) ${delay}s forwards;--w:${w}px"/></clipPath>
-  <text x="${x}" y="${y}" font-size="${size}" font-weight="700" clip-path="url(#${id})"><tspan fill="${P.accent}">${esc(USER.toLowerCase())}@github</tspan><tspan fill="${C.dim}"> ~ </tspan><tspan fill="${P.hot}">$ </tspan><tspan fill="${C.text}">${esc(cmd)}</tspan></text>`;
+  return `<clipPath id="${id}"><rect class="type-clip" x="${x - 2}" y="${y - size - 2}" width="0" height="${size + 10}" style="animation:type ${dur}s steps(${chars},end) ${delay}s forwards;--w:${Math.ceil(tw) + 6}px"/></clipPath>
+  <text x="${x}" y="${y}" font-size="${size}" font-weight="700" textLength="${tw.toFixed(1)}" lengthAdjust="spacing" clip-path="url(#${id})"><tspan fill="${P.accent}">${esc(USER.toLowerCase())}@github</tspan><tspan fill="${C.dim}"> ~ </tspan><tspan fill="${P.hot}">$ </tspan><tspan fill="${C.text}">${esc(cmd)}</tspan></text>`;
 }
 
 const KEYFRAMES = `
@@ -164,7 +165,7 @@ const svg = (w, h, title, css, inner) => `<svg xmlns="http://www.w3.org/2000/svg
 
 function hero() {
   const W = 960;
-  const H = 150;
+  const H = 160;
   const roles = ROLES.map(esc);
   /* Each role types in, holds, and is replaced: one clip per role on its own loop slice. */
   const slice = 3.2;
@@ -194,10 +195,10 @@ function hero() {
       W,
       H,
       `~/${USER.toLowerCase()}`,
-      `${prompt(28, 62, "whoami", { id: "p-hero", size: 15 })}
-  <g class="rise" style="animation:rise .6s ease-out .9s both"><text x="28" y="100" font-size="30" font-weight="800" fill="${P.accent}">${esc(NAME)}</text></g>
-  <g class="rise" style="animation:rise .6s ease-out 1.3s both"><text x="28" y="126" font-size="14" fill="${C.dim}">${roles.join(`  <tspan fill="${C.faint}">·</tspan>  `)}</text></g>
-  <rect class="cursor" x="${28 + Math.ceil(NAME.length * 30 * 0.6) + 8}" y="78" width="14" height="26" fill="${P.hot}"/>`,
+      `${prompt(W / 2, 58, "whoami", { id: "p-hero", size: 15 })}
+  <g class="rise" style="animation:rise .6s ease-out .9s both"><text x="${W / 2}" y="104" text-anchor="middle" font-size="32" font-weight="800" fill="${P.accent}">${esc(NAME)}</text></g>
+  <g class="rise" style="animation:rise .6s ease-out 1.3s both"><text x="${W / 2}" y="132" text-anchor="middle" font-size="14" fill="${C.dim}">${roles.join(`  <tspan fill="${C.faint}">·</tspan>  `)}</text></g>
+  <rect class="cursor" x="${Math.round(W / 2 + (NAME.length * 32 * 0.6) / 2 + 8)}" y="82" width="14" height="26" fill="${P.hot}"/>`,
     ),
   );
 }
@@ -244,7 +245,7 @@ function contributions(cal, s) {
       W,
       H,
       `~/${USER.toLowerCase()}/contributions.sh`,
-      `${prompt(28, 66, "./contributions.sh", { id: "p-contrib" })}
+      `${prompt(W / 2, 66, "./contributions.sh", { id: "p-contrib" })}
   ${labels.join("")}${dayLabels}
   ${cells.join("\n  ")}
   <g class="fade" style="animation:fade .6s ease-out ${(1.0 + cal.weeks.length * 0.022).toFixed(2)}s both">
@@ -347,8 +348,8 @@ function whoami(s) {
   <circle cx="${rx + 20}" cy="18" r="5" fill="#ff5f57"/><circle cx="${rx + 36}" cy="18" r="5" fill="#febc2e"/><circle cx="${rx + 52}" cy="18" r="5" fill="#28c840"/></g>
   <text x="${lx + lw / 2}" y="22" text-anchor="middle" font-size="11" fill="${C.dim}">~/portrait.sh</text>
   <text x="${rx + rw / 2}" y="22" text-anchor="middle" font-size="11" fill="${C.dim}">~/stats.sh</text>
-  ${prompt(lx + 16, top + 22, "whoami", { id: "p-who", size: 14 })}
-  ${prompt(rx + 16, top + 22, "./stats.sh", { id: "p-stats", size: 14 })}
+  ${prompt(lx + lw / 2, top + 22, "whoami", { id: "p-who", size: 14 })}
+  ${prompt(rx + rw / 2, top + 22, "./stats.sh", { id: "p-stats", size: 14 })}
   ${portrait}
   ${cards}
   ${chart}`,

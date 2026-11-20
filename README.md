@@ -1,11 +1,7 @@
 <!-- GitHub Profile README · Yehuda Briskman -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YehudaBriskman/YehudaBriskman/main/assets/banner_slideshow.gif" alt="Yehuda Briskman - animated banner" width="100%" />
-
-  <h1>Hey, I'm Yehuda Briskman.</h1>
-
-  <h3>Full-Stack Engineer · Technical Lead · Product Builder</h3>
+  <img src="assets/hero.svg" alt="Yehuda Briskman: Full-Stack Engineer, Technical Lead, Product Builder" width="100%" />
 
   <p>
     I build products end to end - from the first idea and system architecture<br/>
@@ -21,31 +17,42 @@
   </p>
 </div>
 
+<br />
+
+<div align="center">
+  <img src="assets/contributions.svg" alt="Contribution graph for the last year" width="100%" />
+  <br /><br />
+  <img src="assets/whoami.svg" alt="A YB monogram in ASCII, beside current streak, longest streak, contributions, active days, best day and a monthly contributions chart" width="100%" />
+  <br />
+  <sub>Drawn from my real GitHub activity by <a href="scripts/readme-art.mjs"><code>scripts/readme-art.mjs</code></a>, redrawn every night.</sub>
+</div>
+
 ---
 
-### A little about me
+<h3 align="center">A little about me</h3>
 
-- **Engineering & leadership:** Working across full-stack systems, AI-focused engineering, and technical team leadership.
-- **What interests me:** Developer tools, infrastructure, applied AI, system design, security, and making complex software genuinely useful.
-- **How I build:** I enjoy connecting the architecture, backend, frontend, automation, deployment, and product experience - not just shipping one isolated feature.
-- **Outside the editor:** Reading, gaming, drawing, cooking, and exploring ideas well outside my usual stack.
+<p align="center"><strong>Engineering &amp; leadership</strong><br/>Working across full-stack systems, AI-focused engineering, and technical team leadership.</p>
+<p align="center"><strong>What interests me</strong><br/>Developer tools, infrastructure, applied AI, system design, security, and making complex software genuinely useful.</p>
+<p align="center"><strong>How I build</strong><br/>I enjoy connecting the architecture, backend, frontend, automation, deployment, and product experience - not just shipping one isolated feature.</p>
+<p align="center"><strong>Outside the editor</strong><br/>Reading, gaming, drawing, cooking, and exploring ideas well outside my usual stack.</p>
 
-> **Build boldly. Question assumptions. Keep improving.**
+<p align="center"><em><strong>Build boldly. Question assumptions. Keep improving.</strong></em></p>
 
 ---
 
-### Featured projects
+<h3 align="center">Featured projects</h3>
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YehudaBriskman/WindoM">WindoM</a></h3>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/WindoM-app/windom">WindoM</a></h3>
       <p><strong>Your Space, Your Flow.</strong></p>
       <p>A customizable Chrome new-tab productivity dashboard with tasks, focus tools, weather, Google Calendar, Gmail, Spotify, and market widgets.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Chrome MV3</code></p>
-      <p><a href="https://windom.app">Website</a> · <a href="https://github.com/YehudaBriskman/WindoM">Source</a> · <a href="https://chromewebstore.google.com/detail/windom/comcnbccalbfcegbmaemancbhgpijkpb">Chrome Web Store</a></p>
+      <p><a href="https://windom.app">Website</a> · <a href="https://github.com/WindoM-app/windom">Source</a> · <a href="https://chromewebstore.google.com/detail/windom/comcnbccalbfcegbmaemancbhgpijkpb">Chrome Web Store</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/YehudaBriskman/Bothy">Bothy</a></h3>
       <p><strong>One machine. A whole developer environment.</strong></p>
       <p>A self-hosted infrastructure console that discovers live Docker services, surfaces system health, and brings together identity, observability, and stack management.</p>
@@ -54,18 +61,19 @@
     </td>
   </tr>
 </table>
+</div>
 
-### Building with the team
+<h3 align="center">Building with the team</h3>
 
-<a href="https://github.com/Hozi-AI/CVOps"><strong>CVOps - ML lifecycle platform</strong></a> · <a href="https://github.com/Hozi-AI">Hozi-AI</a>
+<p align="center"><a href="https://github.com/Hozi-AI/CVOps"><strong>CVOps - ML lifecycle platform</strong></a> · <a href="https://github.com/Hozi-AI">Hozi-AI</a></p>
 
-Contributing with my team to an open-source platform for managing the machine-learning lifecycle: dataset versioning, model tracking, workflow orchestration, and auditable pipelines - all in one system.
+<p align="center">Contributing with my team to an open-source platform for managing the machine-learning lifecycle: dataset versioning, model tracking, workflow orchestration, and auditable pipelines - all in one system.</p>
 
-`Python` · `FastAPI` · `React` · `Docker` · `ML Infrastructure`
+<p align="center"><code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>Docker</code> · <code>ML Infrastructure</code></p>
 
 ---
 
-### Technologies I work with
+<h3 align="center">Technologies I work with</h3>
 
 <div align="center">
   <p><strong>Languages & frontend</strong></p>
@@ -80,7 +88,7 @@ Contributing with my team to an open-source platform for managing the machine-le
 
 ---
 
-### GitHub at a glance
+<h3 align="center">GitHub at a glance</h3>
 
 <div align="center">
   <picture>

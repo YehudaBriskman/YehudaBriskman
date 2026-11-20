@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" role="img" aria-label="Yehuda Briskman: stats from the last year">
+  <title>Yehuda Briskman: stats from the last year</title>
+  <style>
+  @keyframes type{to{width:var(--w)}}
+  @keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:scale(1)}}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  @keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  @keyframes glow{0%,100%{opacity:1}50%{opacity:.55}}
+  @keyframes scan{from{transform:translateY(-8px);opacity:0}8%{opacity:.9}to{transform:translateY(var(--h));opacity:0}}
+
+  text{font-family:ui-monospace,'SF Mono','JetBrains Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}.rise,.pop,.grow,.line,.fade{opacity:1!important;transform:none!important}.type-clip{width:100%!important}}
+</style>
+  <rect x="16" y="0.5" width="452" height="519" rx="12" fill="#0f131b" stroke="#232a38"/>
+  <rect x="484" y="0.5" width="460" height="519" rx="12" fill="#0f131b" stroke="#232a38"/>
+  <path d="M16 12.5a12 12 0 0 1 12-12h428a12 12 0 0 1 12 12V34H16z" fill="#141a26"/>
+  <path d="M484 12.5a12 12 0 0 1 12-12h436a12 12 0 0 1 12 12V34H484z" fill="#141a26"/>
+  <g><circle cx="36" cy="18" r="5" fill="#ff5f57"/><circle cx="52" cy="18" r="5" fill="#febc2e"/><circle cx="68" cy="18" r="5" fill="#28c840"/>
+  <circle cx="504" cy="18" r="5" fill="#ff5f57"/><circle cx="520" cy="18" r="5" fill="#febc2e"/><circle cx="536" cy="18" r="5" fill="#28c840"/></g>
+  <text x="242" y="22" text-anchor="middle" font-size="11" fill="#8b95a7">~/portrait.sh</text>
+  <text x="714" y="22" text-anchor="middle" font-size="11" fill="#8b95a7">~/stats.sh</text>
+  <clipPath id="p-who"><rect class="type-clip" x="106" y="52" width="0" height="24" style="animation:type 1.44s steps(32,end) 0s forwards;--w:275px"/></clipPath>
+  <text x="108" y="68" font-size="14" font-weight="700" textLength="268.8" lengthAdjust="spacing" clip-path="url(#p-who)"><tspan fill="#a78bfa">yehudabriskman@github</tspan><tspan fill="#8b95a7"> ~ </tspan><tspan fill="#5eead4">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+  <clipPath id="p-stats"><rect class="type-clip" x="561" y="52" width="0" height="24" style="animation:type 1.6199999999999999s steps(36,end) 0s forwards;--w:309px"/></clipPath>
+  <text x="563" y="68" font-size="14" font-weight="700" textLength="302.4" lengthAdjust="spacing" clip-path="url(#p-stats)"><tspan fill="#a78bfa">yehudabriskman@github</tspan><tspan fill="#8b95a7"> ~ </tspan><tspan fill="#5eead4">$ </tspan><tspan fill="#e6edf3">./stats.sh</tspan></text>
+  <text class="line" xml:space="preserve" x="57.26221071575162" y="113" font-size="11.62" textLength="306.7" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 0.900s both">  .......            .......  ..............</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="132.3684210526316" font-size="11.62" textLength="334.6" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 0.935s both"> .::----:..        .:-----::..::---::::::::::...</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="151.73684210526315" font-size="11.62" textLength="348.6" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 0.970s both"> .-==+++=-:.      :-=+++++=:::==+++=========---::.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="171.10526315789474" font-size="11.62" textLength="355.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.005s both"> .-=+****+=:.    :-+*###*+=::-+*****++++==+====--:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="190.4736842105263" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.040s both">  .-+*####*=-. .:=*#%%%#*=:..-+*###**+=====+++===-:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="209.8421052631579" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.075s both">   .-+*####*+-::=*#%@%#*=:. .-+####*+=::::-=+++===-.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="229.21052631578948" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.110s both">    .-+*#%%#*+=+*%%@%%*=:.  .-+####*+-:..:-=+++===-.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="248.57894736842104" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.145s both">     .-+*#%%##*#%%@%%*=:.   .-+####*+=-::--=+++==-:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="267.9473684210526" font-size="11.62" textLength="355.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.180s both">      .-=*#%%%%%%%%#*=:.    .-+####**+=====++++==-:</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="287.3157894736842" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.215s both">       .-=*##%%%%%#*=:.     .-+*##***++++++++++==-:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="306.6842105263158" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.250s both">        .:=*######*=:.      .-+******+===========-:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="326.0526315789474" font-size="11.62" textLength="369.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.285s both">         .-+*####*=:.       .-+*****+=-::::-====---:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="345.42105263157896" font-size="11.62" textLength="369.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.320s both">          :=*****+=:        .:=+*+++=-.....:-------:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="364.7894736842105" font-size="11.62" textLength="369.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.355s both">          :=+****+-.        .:=+++++=:.   .:-------:.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="384.1578947368421" font-size="11.62" textLength="369.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.390s both">          :-+++++=-.        .:==+===-::....::--:::::.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="403.5263157894737" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.425s both">          .-=++++=-.        .:-=====--:::::::::::::.</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="422.89473684210526" font-size="11.62" textLength="362.5" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.460s both">          .-=====-:.         :----------::::::::::..</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="442.2631578947368" font-size="11.62" textLength="348.6" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.495s both">          .:-----::.         .::-::::::::::::.....</text>
+    <text class="line" xml:space="preserve" x="57.26221071575162" y="461.63157894736844" font-size="11.62" textLength="327.6" lengthAdjust="spacing" fill="#a78bfa" style="animation:fade .25s ease-out 1.530s both">           ........           .................</text>
+    <rect x="28" y="93.63157894736842" width="428" height="2" rx="1" fill="#5eead4" opacity="0" style="animation:scan 0.67s linear .9s 1 both;--h:368px"/>
+  <g class="rise" style="animation:rise .55s ease-out 0.80s both">
+      <rect x="500" y="98" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
+      <text x="514" y="118" font-size="11" fill="#8b95a7">$ current streak</text>
+      <text x="514" y="149" font-size="30" font-weight="800" fill="#5eead4">12<tspan font-size="13" font-weight="400" fill="#8b95a7"> days</tspan></text>
+      <text x="514" y="166" font-size="10.5" fill="#5b6475">Nov 9 – Nov 20</text>
+    </g>
+    <g class="rise" style="animation:rise .55s ease-out 0.92s both">
+      <rect x="722" y="98" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
+      <text x="736" y="118" font-size="11" fill="#8b95a7">$ longest streak</text>
+      <text x="736" y="149" font-size="30" font-weight="800" fill="#e6edf3">12<tspan font-size="13" font-weight="400" fill="#8b95a7"> days</tspan></text>
+      <text x="736" y="166" font-size="10.5" fill="#5b6475">Nov 9 – Nov 20</text>
+    </g>
+    <g class="rise" style="animation:rise .55s ease-out 1.04s both">
+      <rect x="500" y="186" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
+      <text x="514" y="206" font-size="11" fill="#8b95a7">$ contributions</text>
+      <text x="514" y="237" font-size="30" font-weight="800" fill="#e6edf3">4,494<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="514" y="254" font-size="10.5" fill="#5b6475">in the last year</text>
+    </g>
+    <g class="rise" style="animation:rise .55s ease-out 1.16s both">
+      <rect x="722" y="186" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
+      <text x="736" y="206" font-size="11" fill="#8b95a7">$ active days</text>
+      <text x="736" y="237" font-size="30" font-weight="800" fill="#e6edf3">102<tspan font-size="13" font-weight="400" fill="#8b95a7"> / 370</tspan></text>
+      <text x="736" y="254" font-size="10.5" fill="#5b6475">28% of the year</text>
+    </g>
+    <g class="rise" style="animation:rise .55s ease-out 1.28s both">
+      <rect x="500" y="274" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
+      <text x="514" y="294" font-size="11" fill="#8b95a7">$ best day</text>
+      <text x="514" y="325" font-size="30" font-weight="800" fill="#e6edf3">313<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="514" y="342" font-size="10.5" fill="#5b6475">Nov 2</text>
+    </g>
+    <g class="rise" style="animation:rise .55s ease-out 1.40s both">
+      <rect x="722" y="274" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
+      <text x="736" y="294" font-size="11" fill="#8b95a7">$ avg / active day</text>
+      <text x="736" y="325" font-size="30" font-weight="800" fill="#e6edf3">44.1<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="736" y="342" font-size="10.5" fill="#5b6475">contributions</text>
+    </g>
+  <g class="rise" style="animation:rise .55s ease-out 1.4s both">
+      <rect x="500" y="362" width="428" height="142" rx="8" fill="#121722" stroke="#232a38"/>
+      <text x="514" y="382" font-size="11" fill="#8b95a7">$ contributions / month</text>
+    </g>
+    <g><rect class="grow" x="508.0" y="478.0" width="29.3" height="2.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.50s both"><title>Dec: 4</title></rect>
+      <text x="522.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">D</text>
+      </g>
+      <g><rect class="grow" x="542.3" y="478.0" width="29.3" height="2.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.57s both"><title>Jan: 0</title></rect>
+      <text x="557.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">J</text>
+      </g>
+      <g><rect class="grow" x="576.7" y="478.0" width="29.3" height="2.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.64s both"><title>Feb: 39</title></rect>
+      <text x="591.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">F</text>
+      </g>
+      <g><rect class="grow" x="611.0" y="475.7" width="29.3" height="4.3" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.71s both"><title>Mar: 109</title></rect>
+      <text x="625.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">M</text>
+      </g>
+      <g><rect class="grow" x="645.3" y="462.0" width="29.3" height="18.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.78s both"><title>Apr: 452</title></rect>
+      <text x="660.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">A</text>
+      </g>
+      <g><rect class="grow" x="679.7" y="478.0" width="29.3" height="2.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.85s both"><title>May: 1</title></rect>
+      <text x="694.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">M</text>
+      </g>
+      <g><rect class="grow" x="714.0" y="466.1" width="29.3" height="13.9" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.92s both"><title>Jun: 349</title></rect>
+      <text x="728.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">J</text>
+      </g>
+      <g><rect class="grow" x="748.3" y="470.0" width="29.3" height="10.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.99s both"><title>Jul: 250</title></rect>
+      <text x="763.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">J</text>
+      </g>
+      <g><rect class="grow" x="782.7" y="455.8" width="29.3" height="24.2" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.06s both"><title>Aug: 607</title></rect>
+      <text x="797.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">A</text>
+      </g>
+      <g><rect class="grow" x="817.0" y="476.9" width="29.3" height="3.1" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.13s both"><title>Sep: 79</title></rect>
+      <text x="831.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">S</text>
+      </g>
+      <g><rect class="grow" x="851.3" y="460.3" width="29.3" height="19.7" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.20s both"><title>Oct: 495</title></rect>
+      <text x="866.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">O</text>
+      </g>
+      <g><rect class="grow" x="885.7" y="396.0" width="29.3" height="84.0" rx="2.5" fill="#5eead4" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.27s both"><title>Nov: 2,109</title></rect>
+      <text x="900.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">N</text>
+      <text class="fade" x="900.3" y="390.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#5eead4" style="animation:fade .4s ease-out 2.4s both">2,109</text></g>
+</svg>

@@ -1,9 +1,7 @@
 <!-- GitHub Profile README · Yehuda Briskman -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YehudaBriskman/YehudaBriskman/main/assets/banner_slideshow.gif" alt="Yehuda Briskman - animated banner" width="100%" />
-
-  <h1>Hey, I'm Yehuda Briskman.</h1>
+  <img src="assets/hero.svg" alt="Yehuda Briskman: Full-Stack Engineer, Technical Lead, Product Builder" width="100%" />
 
   <h3>Full-Stack Engineer · Technical Lead · Product Builder</h3>
 
@@ -19,6 +17,16 @@
     <a href="https://x.com/yehudabriskman"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://www.instagram.com/yehuda.br/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/contributions.svg" alt="Contribution graph for the last year" width="100%" />
+  <br /><br />
+  <img src="assets/whoami.svg" alt="A YB monogram in ASCII, beside current streak, longest streak, contributions, active days, best day and a monthly contributions chart" width="100%" />
+  <br />
+  <sub>Drawn from my real GitHub activity by <a href="scripts/readme-art.mjs"><code>scripts/readme-art.mjs</code></a>, redrawn every night.</sub>
 </div>
 
 ---

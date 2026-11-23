@@ -385,6 +385,7 @@
   <rect class="pop" x="878" y="192" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.182s"><title>46 on Nov 20</title></rect>
   <rect class="pop" x="878" y="208" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.194s"><title>144 on Nov 21</title></rect>
   <rect class="pop" x="894" y="112" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.144s"><title>3 on Nov 22</title></rect>
+  <rect class="pop" x="894" y="128" width="13" height="13" rx="3" fill="#1b1f2a" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.156s"><title>0 on Nov 23</title></rect>
   <g class="fade" style="animation:fade .6s ease-out 2.17s both">
     <text x="62" y="248" font-size="13" font-weight="700" fill="#e6edf3">4,659 <tspan font-weight="400" fill="#8b95a7">contributions in the last year</tspan></text>
     <text x="760" y="248" text-anchor="end" font-size="11" fill="#8b95a7">less</text>

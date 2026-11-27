@@ -48,8 +48,8 @@
   <g class="rise" style="animation:rise .55s ease-out 0.80s both">
       <rect x="500" y="98" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
       <text x="514" y="118" font-size="11" fill="#8b95a7">$ current streak</text>
-      <text x="514" y="149" font-size="30" font-weight="800" fill="#5eead4">2<tspan font-size="13" font-weight="400" fill="#8b95a7"> days</tspan></text>
-      <text x="514" y="166" font-size="10.5" fill="#5b6475">Nov 25 – Nov 26</text>
+      <text x="514" y="149" font-size="30" font-weight="800" fill="#5eead4">3<tspan font-size="13" font-weight="400" fill="#8b95a7"> days</tspan></text>
+      <text x="514" y="166" font-size="10.5" fill="#5b6475">Nov 25 – Nov 27</text>
     </g>
     <g class="rise" style="animation:rise .55s ease-out 0.92s both">
       <rect x="722" y="98" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
@@ -60,25 +60,25 @@
     <g class="rise" style="animation:rise .55s ease-out 1.04s both">
       <rect x="500" y="186" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
       <text x="514" y="206" font-size="11" fill="#8b95a7">$ contributions</text>
-      <text x="514" y="237" font-size="30" font-weight="800" fill="#e6edf3">5,043<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="514" y="237" font-size="30" font-weight="800" fill="#e6edf3">5,258<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
       <text x="514" y="254" font-size="10.5" fill="#5b6475">in the last year</text>
     </g>
     <g class="rise" style="animation:rise .55s ease-out 1.16s both">
       <rect x="722" y="186" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
       <text x="736" y="206" font-size="11" fill="#8b95a7">$ active days</text>
-      <text x="736" y="237" font-size="30" font-weight="800" fill="#e6edf3">107<tspan font-size="13" font-weight="400" fill="#8b95a7"> / 369</tspan></text>
+      <text x="736" y="237" font-size="30" font-weight="800" fill="#e6edf3">108<tspan font-size="13" font-weight="400" fill="#8b95a7"> / 370</tspan></text>
       <text x="736" y="254" font-size="10.5" fill="#5b6475">29% of the year</text>
     </g>
     <g class="rise" style="animation:rise .55s ease-out 1.28s both">
       <rect x="500" y="274" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
       <text x="514" y="294" font-size="11" fill="#8b95a7">$ best day</text>
-      <text x="514" y="325" font-size="30" font-weight="800" fill="#e6edf3">313<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
-      <text x="514" y="342" font-size="10.5" fill="#5b6475">Nov 2</text>
+      <text x="514" y="325" font-size="30" font-weight="800" fill="#e6edf3">385<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="514" y="342" font-size="10.5" fill="#5b6475">Nov 26</text>
     </g>
     <g class="rise" style="animation:rise .55s ease-out 1.40s both">
       <rect x="722" y="274" width="206" height="76" rx="8" fill="#121722" stroke="#232a38"/>
       <text x="736" y="294" font-size="11" fill="#8b95a7">$ avg / active day</text>
-      <text x="736" y="325" font-size="30" font-weight="800" fill="#e6edf3">47.1<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
+      <text x="736" y="325" font-size="30" font-weight="800" fill="#e6edf3">48.7<tspan font-size="13" font-weight="400" fill="#8b95a7"> </tspan></text>
       <text x="736" y="342" font-size="10.5" fill="#5b6475">contributions</text>
     </g>
   <g class="rise" style="animation:rise .55s ease-out 1.4s both">
@@ -94,31 +94,31 @@
       <g><rect class="grow" x="576.7" y="478.0" width="29.3" height="2.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.64s both"><title>Feb: 39</title></rect>
       <text x="591.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">F</text>
       </g>
-      <g><rect class="grow" x="611.0" y="476.6" width="29.3" height="3.4" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.71s both"><title>Mar: 109</title></rect>
+      <g><rect class="grow" x="611.0" y="476.8" width="29.3" height="3.2" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.71s both"><title>Mar: 109</title></rect>
       <text x="625.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">M</text>
       </g>
-      <g><rect class="grow" x="645.3" y="465.7" width="29.3" height="14.3" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.78s both"><title>Apr: 452</title></rect>
+      <g><rect class="grow" x="645.3" y="466.8" width="29.3" height="13.2" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.78s both"><title>Apr: 452</title></rect>
       <text x="660.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">A</text>
       </g>
       <g><rect class="grow" x="679.7" y="478.0" width="29.3" height="2.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.85s both"><title>May: 1</title></rect>
       <text x="694.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">M</text>
       </g>
-      <g><rect class="grow" x="714.0" y="469.0" width="29.3" height="11.0" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.92s both"><title>Jun: 349</title></rect>
+      <g><rect class="grow" x="714.0" y="469.8" width="29.3" height="10.2" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.92s both"><title>Jun: 349</title></rect>
       <text x="728.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">J</text>
       </g>
-      <g><rect class="grow" x="748.3" y="472.1" width="29.3" height="7.9" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.99s both"><title>Jul: 250</title></rect>
+      <g><rect class="grow" x="748.3" y="472.7" width="29.3" height="7.3" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 1.99s both"><title>Jul: 250</title></rect>
       <text x="763.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">J</text>
       </g>
-      <g><rect class="grow" x="782.7" y="460.8" width="29.3" height="19.2" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.06s both"><title>Aug: 607</title></rect>
+      <g><rect class="grow" x="782.7" y="462.3" width="29.3" height="17.7" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.06s both"><title>Aug: 607</title></rect>
       <text x="797.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">A</text>
       </g>
-      <g><rect class="grow" x="817.0" y="477.5" width="29.3" height="2.5" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.13s both"><title>Sep: 79</title></rect>
+      <g><rect class="grow" x="817.0" y="477.7" width="29.3" height="2.3" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.13s both"><title>Sep: 79</title></rect>
       <text x="831.7" y="495" text-anchor="middle" font-size="10" fill="#5b6475">S</text>
       </g>
-      <g><rect class="grow" x="851.3" y="464.4" width="29.3" height="15.6" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.20s both"><title>Oct: 495</title></rect>
+      <g><rect class="grow" x="851.3" y="465.5" width="29.3" height="14.5" rx="2.5" fill="#8a63f2" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.20s both"><title>Oct: 495</title></rect>
       <text x="866.0" y="495" text-anchor="middle" font-size="10" fill="#5b6475">O</text>
       </g>
-      <g><rect class="grow" x="885.7" y="396.0" width="29.3" height="84.0" rx="2.5" fill="#5eead4" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.27s both"><title>Nov: 2,658</title></rect>
+      <g><rect class="grow" x="885.7" y="396.0" width="29.3" height="84.0" rx="2.5" fill="#5eead4" style="transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.9,.3,1) 2.27s both"><title>Nov: 2,873</title></rect>
       <text x="900.3" y="495" text-anchor="middle" font-size="10" fill="#5b6475">N</text>
-      <text class="fade" x="900.3" y="390.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#5eead4" style="animation:fade .4s ease-out 2.4s both">2,658</text></g>
+      <text class="fade" x="900.3" y="390.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#5eead4" style="animation:fade .4s ease-out 2.4s both">2,873</text></g>
 </svg>

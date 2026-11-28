@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 282" width="960" height="282" role="img" aria-label="5,258 contributions in the last year">
-  <title>5,258 contributions in the last year</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 282" width="960" height="282" role="img" aria-label="5,611 contributions in the last year">
+  <title>5,611 contributions in the last year</title>
   <style>
   @keyframes type{to{width:var(--w)}}
   @keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:scale(1)}}
@@ -357,7 +357,7 @@
   <rect class="pop" x="814" y="192" width="13" height="13" rx="3" fill="#1b1f2a" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.094s"><title>0 on Oct 23</title></rect>
   <rect class="pop" x="814" y="208" width="13" height="13" rx="3" fill="#1b1f2a" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.106s"><title>0 on Oct 24</title></rect>
   <rect class="pop" x="830" y="112" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.056s"><title>4 on Oct 25</title></rect>
-  <rect class="pop" x="830" y="128" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.068s"><title>74 on Oct 26</title></rect>
+  <rect class="pop" x="830" y="128" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.068s"><title>73 on Oct 26</title></rect>
   <rect class="pop" x="830" y="144" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.080s"><title>105 on Oct 27</title></rect>
   <rect class="pop" x="830" y="160" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.092s"><title>20 on Oct 28</title></rect>
   <rect class="pop" x="830" y="176" width="13" height="13" rx="3" fill="#1b1f2a" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.104s"><title>0 on Oct 29</title></rect>
@@ -372,7 +372,7 @@
   <rect class="pop" x="846" y="208" width="13" height="13" rx="3" fill="#1b1f2a" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.150s"><title>0 on Nov 7</title></rect>
   <rect class="pop" x="862" y="112" width="13" height="13" rx="3" fill="#1b1f2a" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.100s"><title>0 on Nov 8</title></rect>
   <rect class="pop" x="862" y="128" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.112s"><title>49 on Nov 9</title></rect>
-  <rect class="pop" x="862" y="144" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.124s"><title>164 on Nov 10</title></rect>
+  <rect class="pop" x="862" y="144" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.124s"><title>162 on Nov 10</title></rect>
   <rect class="pop" x="862" y="160" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.136s"><title>146 on Nov 11</title></rect>
   <rect class="pop" x="862" y="176" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.148s"><title>78 on Nov 12</title></rect>
   <rect class="pop" x="862" y="192" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.160s"><title>132 on Nov 13</title></rect>
@@ -380,7 +380,7 @@
   <rect class="pop" x="878" y="112" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.122s"><title>89 on Nov 15</title></rect>
   <rect class="pop" x="878" y="128" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.134s"><title>164 on Nov 16</title></rect>
   <rect class="pop" x="878" y="144" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.146s"><title>44 on Nov 17</title></rect>
-  <rect class="pop" x="878" y="160" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.158s"><title>98 on Nov 18</title></rect>
+  <rect class="pop" x="878" y="160" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.158s"><title>96 on Nov 18</title></rect>
   <rect class="pop" x="878" y="176" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.170s"><title>64 on Nov 19</title></rect>
   <rect class="pop" x="878" y="192" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.182s"><title>46 on Nov 20</title></rect>
   <rect class="pop" x="878" y="208" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.194s"><title>144 on Nov 21</title></rect>
@@ -389,9 +389,10 @@
   <rect class="pop" x="894" y="144" width="13" height="13" rx="3" fill="#1b1f2a" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.168s"><title>0 on Nov 24</title></rect>
   <rect class="pop" x="894" y="160" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.180s"><title>153 on Nov 25</title></rect>
   <rect class="pop" x="894" y="176" width="13" height="13" rx="3" fill="#c3a8ff" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-name:pop,glow;animation-duration:.4s,3.2s;animation-delay:2.192s,4.89s;animation-iteration-count:1,infinite"><title>385 on Nov 26</title></rect>
-  <rect class="pop" x="894" y="192" width="13" height="13" rx="3" fill="#3a2a6e" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.204s"><title>32 on Nov 27</title></rect>
+  <rect class="pop" x="894" y="192" width="13" height="13" rx="3" fill="#8a63f2" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.204s"><title>260 on Nov 27</title></rect>
+  <rect class="pop" x="894" y="208" width="13" height="13" rx="3" fill="#5b3fb8" style="animation:pop .4s cubic-bezier(.2,.9,.3,1.3) both;animation-delay:2.216s"><title>130 on Nov 28</title></rect>
   <g class="fade" style="animation:fade .6s ease-out 2.17s both">
-    <text x="62" y="248" font-size="13" font-weight="700" fill="#e6edf3">5,258 <tspan font-weight="400" fill="#8b95a7">contributions in the last year</tspan></text>
+    <text x="62" y="248" font-size="13" font-weight="700" fill="#e6edf3">5,611 <tspan font-weight="400" fill="#8b95a7">contributions in the last year</tspan></text>
     <text x="760" y="248" text-anchor="end" font-size="11" fill="#8b95a7">less</text>
     <rect x="790" y="238" width="13" height="13" rx="3" fill="#1b1f2a"/><rect x="806" y="238" width="13" height="13" rx="3" fill="#3a2a6e"/><rect x="822" y="238" width="13" height="13" rx="3" fill="#5b3fb8"/><rect x="838" y="238" width="13" height="13" rx="3" fill="#8a63f2"/><rect x="854" y="238" width="13" height="13" rx="3" fill="#c3a8ff"/>
     <text x="874" y="248" font-size="11" fill="#8b95a7">more</text>
